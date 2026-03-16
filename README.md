@@ -5,7 +5,7 @@
 <br>
 
 this is my little corner of github. building real-world projects, exploring new tech,<br>
-and obsessing over things i find interesting. 
+and obsessing over things i find interesting.
 
 <br>
 
@@ -45,11 +45,13 @@ and obsessing over things i find interesting.
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Supabase](https://img.shields.io/badge/supabase-%2300C389.svg?style=for-the-badge&logo=supabase&logoColor=white)
 
 **databases**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/supabase-%2300C389.svg?style=for-the-badge&logo=supabase&logoColor=white)
 
 **languages**
 
@@ -64,3 +66,4 @@ and obsessing over things i find interesting.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Claude](https://img.shields.io/badge/claude-%23CC785C.svg?style=for-the-badge&logo=anthropic&logoColor=white)
