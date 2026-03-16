@@ -1,11 +1,11 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=28&duration=2500&pause=600&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=110&lines=hey%2C+i'm+shana.;gamer.+%2F%2F+weeb.+%2F%2F+cs+student.;certified+nerd.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=28&duration=2500&pause=600&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=110&lines=hey%2C+i'm+shana.;gamer.+%2F%2F+cs+student.;certified+nerd.)](https://git.io/typing-svg)
 
 <br>
 
 this is my little corner of github. building real-world projects, exploring new tech,<br>
-and obsessing over things i find interesting. no fluff, just craft.
+and obsessing over things i find interesting. 
 
 <br>
 
@@ -21,7 +21,7 @@ and obsessing over things i find interesting. no fluff, just craft.
 ```
 > currently
   -- thesis   : AI-Powered Smart Library System
-  -- learning : React Native  |  TypeScript
+  -- learning : React Native  |  TypeScript | AI Trends
   -- open to  : collabs on full-stack or mobile projects
 ```
 
