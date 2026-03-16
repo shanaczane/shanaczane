@@ -12,7 +12,6 @@ and obsessing over things i find interesting.
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/shanaczane)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%2300E5FF.svg?style=flat-square&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/shana-cruzat-12b6052a3/)
 [![Email](https://img.shields.io/badge/email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shanaczanecruzat@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=shanaczane&style=flat-square&color=00e5ff&label=profile+views)](https://github.com/shanaczane)
 
 </div>
 
